@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Delhi Tour Guide</string>
+    <string name="state_name">Delhi, Capital of India</string>
+    <string name="hotels_restaurants">Hotels and Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="atm">Atm locations</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="metro_station">Metro Stations</string>
+    <string name="name_text">Nirman Vihar Metro Station</string>
+    <string name="location_text">Near Laxmi Nagar</string>
+
+    <string name="masalaHouse_name">Masala House</string>
+    <string name="masalaHouse_address">Sunder Nagar, New Delhi</string>
+    <string name="lakhori_name">Lakhori - Haveli Dharampura</string>
+    <string name="lakhori_address">Chandni Chowk, New Delhi</string>
+    <string name="getafix_name">Getafix</string>
+    <string name="getafix_address">Greater Kailash (GK) 1, New Delhi</string>
+    <string name="chinaGarden_name">China Garden</string>
+    <string name="chinaGarden_address">Greater Kailash (GK) 2, New Delhi</string>
+    <string name="tamasha_name">Tamasha</string>
+    <string name="tamasha_address">Connaught Place, New Delhi</string>
+    <string name="hoc_name">House of Commons</string>
+    <string name="hoc_address">Connaught Place, New Delhi</string>
+    <string name="motomahal_name">Moti Mahal</string>
+    <string name="motimahal_address">Daryaganj, New Delhi</string>
+    <string name="lodi_name">Lodi - The Garden Restaurant</string>
+    <string name="lodi_address">Lodhi Road, New Delhi</string>
+
+    <string name="hotel_kabana_name">Hotel Cabana</string>
+    <string name="hotel_kabana_address">Paharganj, Delhi</string>
+    <string name="hotel_bbplace_name">BB Palace-A Boutique Hotel</string>
+    <string name="hotel_bbplace_address">Karol Bagh Area, Delhi</string>
+    <string name="hotel_parknew_name">The Park New Delhi</string>
+    <string name="hotel_parknew_address">Connaught Place, Delhi</string>
+    <string name="hotel_kk_name">KK HOTEL</string>
+    <string name="hotel_kk_address">Nehru Place, Delhi</string>
+    <string name="hotel_royalplaza_name">Hotel The Royal Plaza</string>
+    <string name="hotel_royalplaza_address">Connaught Place, Delhi</string>
+    <string name="hotel_radisson_name">Radisson Blu Hotel</string>
+    <string name="hotel_radisson_address">Dwarka, Delhi</string>
+    <string name="hotel_hari_name">Hotel Hari Piorko</string>
+    <string name="hotel_hari_address">Paharganj, Delhi</string>
+    <string name="hotel_aman_name">Hotel Aman Continental</string>
+    <string name="hotel_aman_address">Paharganj, Delhi</string>
+
+    <string name="canara_bank">Canara Bank</string>
+    <string name="icici_bank">ICICI Bank</string>
+    <string name="baroda_bank">Bank Of Baroda</string>
+    <string name="pnb">Punjab National Bank</string>
+
+    <string name="atm1">7/48, Malcha Marg, Chanakyapuri</string>
+    <string name="atm2">A3/12, Janakpuri, Near Chanan</string>
+    <string name="atm3">Phelps Building, Inner Circle</string>
+    <string name="atm4">H/2, Green Park Extension</string>
+    <string name="atm5">D-2/ 211, Munirka, Delhi 110 067</string>
+    <string name="atm6">L.I.C. Building, District Centre</string>
+    <string name="atm7">Alaknanda Shopping Complex</string>
+    <string name="atm8">Alaknanda VSC Tara Appt. Market</string>
+    <string name="atm9">D Block DDA Market, Anand Vihar</string>
+
+    <string name="hospital1_name">Sunrise Hospital</string>
+    <string name="hospital1_address">Kalindi colony</string>
+    <string name="hospital2_name">All India Institute of Medical Sciences</string>
+    <string name="hospital2_address">Ansari Nagar</string>
+    <string name="hospital3_name">Dharamshila Cancer Hospital and Research Centre</string>
+    <string name="hospital3_address">Dharamshila Marg, Vasundhara Enclave</string>
+    <string name="hospital4_name">Guru Teg Bahadur Hospital</string>
+    <string name="hospital4_address">Dilshad Garden</string>
+    <string name="hospital5_name">Maharaja Agrasen Hospital</string>
+    <string name="hospital5_address">West Punjabi Bagh</string>
+    <string name="hospital6_name">St. Stephen\'s Hospital</string>
+    <string name="hospital6_address">Delhi, Tis Hazari</string>
+    <string name="hospital7_name">Eden Hospital</string>
+    <string name="hospital7_address">East of Kailash, New Delhi, 110065</string>
+    <string name="hospital8_name">Ram Manohar Lohia Hospital</string>
+    <string name="hospital8_address">Baba Kharag Singh Marg</string>
+    <string name="hospital9_name">Sir Ganga Ram Hospital</string>
+    <string name="hospital9_address">Rajendar Nagar</string>
+    <string name="hospital10_name">Holy Family Hospital</string>
+    <string name="hospital10_address">Jamia Nagar, Friends Colony</string>
+
+    <string name="metro1_name">Adarsh Nagar metro station</string>
+    <string name="metro1_address">Near Adarsh Nagar</string>
+    <string name="metro2_name">Akshardham metro station</string>
+    <string name="metro2_address">Opposite Akshardham Temple</string>
+    <string name="metro3_name">Anand Vihar metro station</string>
+    <string name="metro3_address">Near Anand vihar Bus Station</string>
+    <string name="metro4_name">Nirman Vihar metro station</string>
+    <string name="metro4_address">Oppsite V3S Mall</string>
+    <string name="metro5_name">Rajiv Chowk metro station</string>
+    <string name="metro5_address">Cannaught Palace</string>
+    <string name="metro6_name">Saket metro station</string>
+    <string name="metro6_address">Near Hauz Khas Village</string>
+    <string name="metro7_name">Welcome</string>
+    <string name="metro7_address">Near Seelampur</string>
+    <string name="metro8_name">Yamuna Bank metro station</string>
+    <string name="metro8_address">Yamuna Bank</string>
+    <string name="metro9_name">Tagore Garden metro station</string>
+    <string name="metro9_address">Near Tagore Garden</string>
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

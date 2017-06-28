@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.delhitourguide.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            style="@style/BoxImageView"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:src="@drawable/india_flag" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center_horizontal"
+            android:text="@string/state_name"
+            android:textSize="@dimen/heading_text_size" />
+
+        <LinearLayout style="@style/BoxLayoutHorizontal">
+
+            <LinearLayout
+                android:id="@+id/hotels"
+                style="@style/BoxLayoutVertical">
+
+                <ImageView
+                    style="@style/BoxImageView"
+                    android:src="@drawable/hotel" />
+
+                <TextView
+                    style="@style/BoxTextView"
+                    android:text="@string/hotels" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/atm"
+                style="@style/BoxLayoutVertical">
+
+                <ImageView
+                    style="@style/BoxImageView"
+                    android:src="@drawable/atm_machine" />
+
+                <TextView
+                    style="@style/BoxTextView"
+                    android:text="@string/atm" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout style="@style/BoxLayoutHorizontal">
+
+            <LinearLayout
+                android:id="@+id/hospitals"
+                style="@style/BoxLayoutVertical">
+
+                <ImageView
+                    style="@style/BoxImageView"
+                    android:src="@drawable/hospital" />
+
+                <TextView
+                    style="@style/BoxTextView"
+                    android:text="@string/hospitals" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/metro"
+                style="@style/BoxLayoutVertical">
+
+                <ImageView
+                    style="@style/BoxImageView"
+                    android:src="@drawable/metro" />
+
+                <TextView
+                    style="@style/BoxTextView"
+                    android:text="@string/metro_station" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
